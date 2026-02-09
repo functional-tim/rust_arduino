@@ -1,7 +1,9 @@
-rust-x-arduino
+rust_arduino
 ==============
 
-Rust project for the _Arduino Mega 2560_.
+Rust project for the _Arduino Mega 2560_. Forked from [rust-x-arduino].
+
+[rust-x-arduino]: https://github.com/rahix/rust-x-arduino
 
 ## Build Instructions
 1. Install prerequisites as described in the [`avr-hal` README] (`avr-gcc`, `avr-libc`, `avrdude`, [`ravedude`]).
